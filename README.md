@@ -1,7 +1,7 @@
 ## Olá, Eu sou a Daiane!
 
-🌱 Atualmente estudante Front-end na @Laboratória
-🐛 Em transição de carreira!!
+- 🌱 Atualmente estudante Front-end na @Laboratória
+- 🐛 Em transição de carreira!!
 
 <div align="center">
   <a href="https://github.com/daianeex">
