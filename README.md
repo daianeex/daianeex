@@ -1,4 +1,8 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá, Eu sou a Daiane!
+
+🌱 Atualmente estudante Front-end na @Laboratória
+🐛 Em transição de carreira!!
+
 <div align="center">
   <a href="https://github.com/daianeex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianeex&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
