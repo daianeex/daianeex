@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Daiane!
 
-- 🌱 Atualmente estudante Front-end na @Laboratória
+- 🌱 Estudante Front-end na @Laboratória
 - 🐛 Em transição de carreira!!
 
 <div align="center">
