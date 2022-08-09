@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Daiane!
 
-- 🌱 Recem formada em Front-end na @Laboratória
+- Desenvolvedora Web Front-End Jr.
 - 🐛 Em transição de carreira!!
 
 <div align="center">
